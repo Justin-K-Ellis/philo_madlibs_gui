@@ -1,0 +1,39 @@
+p {
+    text-align: justify;
+}
+
+h2 {
+    text-align: center;
+}
+
+h3 {
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+input {
+    margin: auto;
+    text-align: left;
+}
+
+.container {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.form-floating {
+    margin-left: 150px;
+    margin-right: 150px;
+}
+
+.list-group {
+    margin-left: 350px;
+    margin-right: 350px;
+    text-align: center;
+}
+
+.final_text {
+    margin-left: 250px;
+    margin-right: 250px;
+}
